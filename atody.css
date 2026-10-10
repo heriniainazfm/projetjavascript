@@ -1,1 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: bisque;
+}
+.atody {
+  background-color: white;
+  width: 45%;
+  margin: 5% auto;
+  border-radius: 15px;
+  padding: 15px;
+}
+img {
+  width: 100%;
+  border-radius: 15px;
+}
+h3 {
+  color: red;
+}
+.preparation {
+  background-color: rgba(255, 192, 203, 0.502);
+  padding: 15px;
+  border-radius: 10px;
+}
+.preparation ul,
+.ingredient,
+.instructions ol {
+  margin-left: 9%;
+}
+h2 {
+  color: red;
+}
+ol li::marker {
+  color: red;
+}
+table,
+tr,
+td {
+  padding: 15px;
+  border-bottom: 1px solid rgb(213, 191, 191);
+}
+table {
+  width: 100%;
+  border: none;
+}
+
+.bota {
+  color: brown;
+  font-weight: 900;
+}
+
+.miala,
+.miala td {
+  border: none !important;
+}
 
